@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-# ✈️ AeroGuard: AI-Powered Aircraft Turbofan Engine Digital Twin
+# AeroGuard: AI-Powered Aircraft Turbofan Engine Digital Twin
 ### Next-Generation Real-Time Anomaly Detection, Remaining Useful Life (RUL) Prediction & 50-Fault Predictive Maintenance Recommender
 
 [![Next.js](https://img.shields.io/badge/Next.js-16.3-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
@@ -326,7 +326,7 @@ python anomaly_detector.py
 ## 👥 Authors & Acknowledgments
 
 - **Rahul K** ([@sd-rahulk](https://github.com/sd-rahulk))
-- Developed for the **Parallax Aerospace Hackathon**.
+- Developed for the **Parallax Hackathon**.
 - Special thanks to NASA PCoE for providing open turbofan benchmark datasets.
 
 ---
