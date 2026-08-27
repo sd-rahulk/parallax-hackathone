@@ -326,6 +326,8 @@ python anomaly_detector.py
 ## 👥 Authors & Acknowledgments
 
 - **Rahul K** ([@sd-rahulk](https://github.com/sd-rahulk))
+- **Joshan** ([@Joshan2007](https://github.com/Joshan2007))
+- **Devadarrsha-P-D** ([@Devadarrsha-P-D](https://github.com/Devadarrsha-P-D))
 - Developed for the **Parallax Hackathon**.
 - Special thanks to NASA PCoE for providing open turbofan benchmark datasets.
 
